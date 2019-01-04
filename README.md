@@ -1,6 +1,6 @@
 # AntBots
-..Robot Warrior (AntClass)
-..Robo Wars in der Ant-Class aus dem 3D Drucker
++ Robot Warrior (AntClass)
++ Robo Wars in der Ant-Class aus dem 3D Drucker
 ![Susi - AntBot](https://github.com/merlin1031/AntBots/blob/master/CAD-Daten/Bilder/Susi-Konzept1-4.png)
 
 # Spezifikationen
