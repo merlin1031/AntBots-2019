@@ -8,9 +8,11 @@
 + Gewicht: max. 150g
 + Antrieb: 2S (7,4V)
 + Motor: Geriebemotor 1:200 6V
++ Räder: Pololu 40x7mm Gummi
 
 # CAD
 + Konstruktion mit SolidWorks 2017/18
++ Slicing und 3D-Druck: Repetier Host und Creality Ender 3
 
 
 # Bezugsquellen
