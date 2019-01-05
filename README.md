@@ -22,6 +22,8 @@
 ## Antrieb
 + Rad:[Pololu Wheel 40×7mm](https://eckstein-shop.de/Pololu-Wheel-407mm-Pair-Black)
 + Getriebemotor: [V-TEC Micro DC Motor Gleichstrom Getriebemotor 10x8mm 6V](https://eckstein-shop.de/V-TEC-Micro-DC-Motor-Gleichstrom-Getriebemotor-10x8mm-10x12mm-12x13mm-3V-6V-17-560RPM)
-+ Getriebemotor Alternativ: [Orlandoo OH35P01 KIT RC Car Parts Gear Motor - 300](https://www.banggood.com/custlink/v3KGERK978)
++ Getriebemotor Alternative: [Orlandoo OH35P01 KIT RC Car Parts Gear Motor - 300](https://www.banggood.com/custlink/v3KGERK978)
+Leider bietet Eckstein nur Getriebe bis zur Übersetzung 1:200 an (Stand Dez. 2018). Nach den ersten Fahrversuchen wird sich zeigen ob diese Übersetzung "zu langsam" ist. Falls ja müsste eine kleinere Übersetzung wie z.B. diese 1:300 eingestezt werden.
 + ESC: [Pololu A4990 Dual Motor Driver Carrier dual H-bridge](https://eckstein-shop.de/Pololu-A4990-Dual-Motor-Driver-Carrier-dual-H-bridge)
-+ ESC Alternativ: [DasMikro 2S6A Micro Dual Bi-Directional Speed Controller for Tank Crawler and Boat without Brake](https://www.banggood.com/custlink/vmGmdEGiuN)
++ ESC Alternative: [DasMikro 2S6A Micro Dual Bi-Directional Speed Controller for Tank Crawler and Boat without Brake](https://www.banggood.com/custlink/vmGmdEGiuN)
+Interessant ist die Version A mi eingebauem Mischer. Dabei ist Signal 1 für die Motorendrehzahl (vorwärts / rückwärts) zuständig und SIgnal 2 für die Richtung (links / rechts). Mit dem Mischer wird es dann möglich den Roboter mit einer handelsüblichen, günstigen Colt-Anlage zu steuern. In der Regel besitzen diese Sender keine Mischer um das Softwareseitig einstellen zu können. Bei normalen Knüpel-Sendern (z.B. FrySky 9D Plus) kann dies über einen etsprechnden Software-Mischer im Sender eingestellt werden.
