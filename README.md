@@ -7,7 +7,7 @@
 + Dimensionen max. 10x10x10 cm
 + Gewicht: max. 150g
 + Antrieb: 2S (7,4V)
-+ Motor: Geriebemotor 1:200 6V
++ Motor: Geriebemotor 6V, Übersetzung 1:200
 + Räder: Pololu 40x7mm Gummi
 
 # CAD
@@ -22,4 +22,6 @@
 ## Antrieb
 + Rad:[Pololu Wheel 40×7mm](https://eckstein-shop.de/Pololu-Wheel-407mm-Pair-Black)
 + Getriebemotor: [V-TEC Micro DC Motor Gleichstrom Getriebemotor 10x8mm 6V](https://eckstein-shop.de/V-TEC-Micro-DC-Motor-Gleichstrom-Getriebemotor-10x8mm-10x12mm-12x13mm-3V-6V-17-560RPM)
-+ ESC: [Pololu TB6612FNG Dual Motortreiber Carrier](https://eckstein-shop.de/Pololu-TB6612FNG-Dual-Motortreiber-Carrier)
++ Getriebemotor Alternativ: [Orlandoo OH35P01 KIT RC Car Parts Gear Motor - 300](https://www.banggood.com/custlink/v3KGERK978)
++ ESC: [Pololu A4990 Dual Motor Driver Carrier dual H-bridge](https://eckstein-shop.de/Pololu-A4990-Dual-Motor-Driver-Carrier-dual-H-bridge)
++ ESC Alternativ: [DasMikro 2S6A Micro Dual Bi-Directional Speed Controller for Tank Crawler and Boat without Brake](https://www.banggood.com/custlink/vmGmdEGiuN)
