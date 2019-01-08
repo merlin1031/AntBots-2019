@@ -15,16 +15,16 @@
 + Slicing und 3D-Druck: Repetier Host und Creality Ender 3
 
 # Gewichtsübersicht
-| Komponente                                   | Gewicht [g]|
-| -------------                                | -----------|
-| Empfänger FrySky D4R-II                      |          4 |
-| Akkukabel JST-BEC Buchse ca. 8cm Kabel       |          1 |
-| 5V BEC 2A (Eckstein / D24V50F5)              |          2 |
-| ESC Pololu A4990 (ohne Kabel)                |          1 |
-| Schraube M3x30                               |          1 |
-| Lipo Akku 3S 2p 800mA Turnegy 20-30C         |         47 |
-| Schraube M3x30                               |          1 |
-| Susi Frame PLA incl. Kugelroller / Mororen   |         86 |
+| Komponente                                       | Gewicht [g]|
+| -------------                                    | -----------|
+| Empfänger FrySky D4R-II                          |          4 |
+| Empfänger 2.4G 4CH Mini Frsky D8 (banggood)      |          2 |
+| Akkukabel JST-BEC Buchse ca. 8cm Kabel           |          1 |
+| Lipo Akku 3S 2p 800mA Turnegy 20-30C             |         47 |
+| 5V BEC 2A (Eckstein / D24V50F5)                  |          2 |
+| ESC Pololu A4990 (ohne Kabel)                    |          1 |
+| Susi Frame PLA incl. Kugelroller/Motoren/Räder   |         86 |
+| Schraube M3x30                                   |          1 |
 
 # Bezugsquellen
 ## Schrauben
