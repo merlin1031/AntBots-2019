@@ -2,6 +2,7 @@
 + Robot Warrior (AntClass)
 + Robo Wars in der Ant-Class aus dem 3D Drucker
 ![Susi - AntBot](https://github.com/merlin1031/AntBots/blob/master/CAD-Daten/Bilder/Susi-Konzept1-4.png)
+![Susi - AntBot Prototyp](https://github.com/merlin1031/AntBots/blob/master/CAD-Daten/Bilder/Susi-Prototyp_01.jpeg)
 
 # Spezifikationen
 + Dimensionen max. 10x10x10 cm
