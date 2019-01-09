@@ -21,8 +21,11 @@
 | Empfänger FrySky D4R-II                          |          4 |
 | Empfänger 2.4G 4CH Mini Frsky D8 (banggood)      |          2 |
 | Akkukabel JST-BEC Buchse ca. 8cm Kabel           |          1 |
-| Lipo Akku 3S 2p 800mA Turnegy 20-30C             |         47 |
+| Lipo Akku 3S 800mA Turnegy 20-30C                |         47 |
+| Lipo Akku 3S 500mA Turnegy 20-30C                |         33 |
+| Lipo Akku 3S 350mA LemonRC 35C                   |         24 |
 | 5V BEC 2A (Eckstein / D24V50F5)                  |          2 |
+| Diatone 5V BEC V2.0 (flyingfolk)                 |          1 |
 | ESC Pololu A4990 (ohne Kabel)                    |          1 |
 | Susi Frame PLA incl. Kugelroller/Motoren/Räder   |         86 |
 | Schraube M3x30                                   |          1 |
@@ -40,3 +43,4 @@ Leider bietet Eckstein nur Getriebe bis zur Übersetzung 1:200 an (Stand Dez. 20
 + ESC Alternative: [DasMikro 2S6A Micro Dual Bi-Directional Speed Controller for Tank Crawler and Boat without Brake](https://www.banggood.com/custlink/vmGmdEGiuN)
 Interessant ist die Version A mi eingebauem Mischer. Dabei ist Signal 1 für die Motorendrehzahl (vorwärts / rückwärts) zuständig und Signal 2 für die Richtung (links / rechts).
 Mit dem Mischer wird es dann möglich den Roboter mit einer handelsüblichen, günstigen Colt-Anlage zu steuern. In der Regel besitzen diese Sender keine Mischer um das softwareseitig einstellen zu können. Bei normalen Knüppel-Sendern (z.B. FrySky 9D Plus) kann dies über einen etsprechnden Software-Mischer im Sender eingestellt werden.
++ 5V BEC: [Mini BEC 5V 2A V2 bis 6S Lipo!](http://flyingfolk.com/Voltage-Regulators-Spannungsregler/FPV-Mini-UBEC-BEC-5V-2A-2S-6S-LiPo-Step-Down-Spannungswandler)
