@@ -44,5 +44,3 @@ Leider bietet Eckstein nur Getriebe bis zur Übersetzung 1:200 an (Stand Dez. 20
 Interessant ist die Version A mi eingebauem Mischer. Dabei ist Signal 1 für die Motorendrehzahl (vorwärts / rückwärts) zuständig und Signal 2 für die Richtung (links / rechts).
 Mit dem Mischer wird es dann möglich den Roboter mit einer handelsüblichen, günstigen Colt-Anlage zu steuern. In der Regel besitzen diese Sender keine Mischer um das softwareseitig einstellen zu können. Bei normalen Knüppel-Sendern (z.B. FrySky 9D Plus) kann dies über einen etsprechnden Software-Mischer im Sender eingestellt werden.
 + 5V BEC: [Mini BEC 5V 2A V2 bis 6S Lipo!](http://flyingfolk.com/Voltage-Regulators-Spannungsregler/FPV-Mini-UBEC-BEC-5V-2A-2S-6S-LiPo-Step-Down-Spannungswandler)
-
-schon lange nichts mehr am Projekt gearbeitet !!!
